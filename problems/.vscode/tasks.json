@@ -12,7 +12,7 @@
                "-stdlib=libc++",
                "-lboost_system",
                "-lboost_filesystem",
-               "Practice_ConceptList.cpp",
+               "conceptlist.cpp",
                "-o",
                 "application.out",
                 "--debug"
