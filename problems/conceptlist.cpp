@@ -21,7 +21,6 @@ struct Concept{
     }
 };
 
-
 class Concept_List {
     public:
         Concept_List();
