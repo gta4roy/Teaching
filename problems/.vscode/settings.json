@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "utility": "cpp",
+        "list": "cpp",
+        "deque": "cpp",
+        "map": "cpp",
+        "vector": "cpp",
+        "iosfwd": "cpp",
+        "bitset": "cpp"
+    }
+}
